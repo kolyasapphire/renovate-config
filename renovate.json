@@ -1,0 +1,14 @@
+{
+  "extends": ["config:base"],
+  "assignAutomerge": false,
+  "assignees": ["kolyasapphire"],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
+  ],
+  "stabilityDays": 2,
+  "timezone": "Europe/Moscow",
+  "prCreation": "not-pending"
+}
