@@ -1,5 +1,9 @@
 {
-  "extends": ["config:base", ":disableDependencyDashboard"],
+  "extends": [
+    "config:base",
+    "schedule:weekends",
+    ":disableDependencyDashboard"
+  ],
   "assignAutomerge": false,
   "assignees": [],
   "packageRules": [
