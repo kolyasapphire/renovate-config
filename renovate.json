@@ -1,7 +1,7 @@
 {
   "extends": ["config:base", ":disableDependencyDashboard"],
   "assignAutomerge": false,
-  "assignees": ["kolyasapphire"],
+  "assignees": [],
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
