@@ -14,7 +14,7 @@
     }
   ],
   "stabilityDays": 4,
-  "timezone": "Europe/Moscow",
+  "timezone": "Etc/GMT-4",
   "prCreation": "not-pending",
   "labels": ["dependencies"],
   "vulnerabilityAlerts": {
