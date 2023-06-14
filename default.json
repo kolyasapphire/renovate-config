@@ -5,6 +5,7 @@
     "schedule:weekends",
     ":disableDependencyDashboard"
   ],
+  "enabled": false,
   "assignAutomerge": false,
   "assignees": [],
   "packageRules": [
